@@ -2,4 +2,6 @@ nginx
 
 
 streamlit
+tensorflow
 pillow
+numpy
